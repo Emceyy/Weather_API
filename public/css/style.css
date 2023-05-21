@@ -1,0 +1,74 @@
+body{
+    background-color: #B8E7E1;
+}
+.formc{
+    background-color:#B8E7E1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10%;
+}
+.labelc{
+    margin-right: 10px;
+    color: black;
+    font-size: 1.2rem;
+    font-family: Georgia, serif;
+}
+.inputc{
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 1.2rem;
+    font-family: Georgia, serif;
+}
+.buttonc{
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 1.2rem;
+    font-family: Georgia, serif;
+    background-color: aliceblue;
+    color:cadetblue
+}
+.weatherc {
+    text-align: center;
+    background-color: #B6EAFA;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 15px 20px 10px 10px rgba(0, 0, 0, 0.2);
+    margin:50px 100px auto 100px;
+  }
+  
+  .pc {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .hc {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .weatherc img {
+    width: 150px;
+    height: 150px;
+  }
+  .Refreshc{
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 10px;
+    border:2px solid black;
+    padding: 8px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
+.Refreshc:hover{
+    background-color: #79E0EE;
+    color: #fff;
+    
+}
