@@ -16,3 +16,6 @@ To run this app, you need to have Node.js installed on your machine. You also ne
 
 To use the app, simply enter a location in the input field and click on the "Go" button. The app will display the name of the location, the current temperature in Celsius, and an icon indicating the weather condition.
 
+## License
+
+This project is licensed under the ISC license.
