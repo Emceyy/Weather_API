@@ -18,4 +18,4 @@ To use the app, simply enter a location in the input field and click on the "Go"
 
 ## License
 
-This project is licensed under the ISC license.
+This project is licensed under the ISC license :)
