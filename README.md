@@ -1,6 +1,6 @@
 # Weather API
 
-This is a web app that allows you to get the current temperature of any location by entering the city, country, village, etc. It uses the OpenWeatherMap API to fetch the weather data and displays it on a simple web page :)
+This is a web app that allows you to get the current temperature of any location by entering the city, country, village, etc. It uses the OpenWeatherMap API to fetch the weather data and displays it on a simple web page.
 
 ## Installation
 
